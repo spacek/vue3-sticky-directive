@@ -1,7 +1,7 @@
 {
   "name": "vue3-sticky-directive",
   "author": "DapperBenji <dapperbenji@dev.com>",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "type": "module",
   "files": ["dist"],
   "main": "./dist/index.umd.cjs",
@@ -29,7 +29,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "vue": "3.2.37"
+    "vue": "^3.2.37"
   },
   "devDependencies": {
     "@types/node": "^18.7.5",
